@@ -1,1 +1,1 @@
-# Erlang
+# ДЗ по Erlang
