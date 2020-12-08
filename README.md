@@ -1,1 +1,1 @@
-# ДЗ по Erlang
+# Erlang practices for State Unversity of Telecomunication
