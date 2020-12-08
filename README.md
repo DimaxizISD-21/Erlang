@@ -1,1 +1,1 @@
-# Erlang practices for State University of Telecomunication
+# Erlang practices for State University of Telecomunication (DUT)
